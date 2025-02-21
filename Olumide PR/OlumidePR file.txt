@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+		<html>
+			<head>
+				<title>css properties class</title>
+				<link rel="stylesheet" href="styles.Css">
+						
+			</head>
+			<body>
+				<p class="donald"> font styling in CSS</p>
+				<p class="donaldTwo"> This is a test</p>
+
+			</body>
